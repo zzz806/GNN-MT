@@ -1,11 +1,7 @@
 # GNN-MT
 Must-read papers on GNN and Machine Translation Reading List
 # Machine Translation Reading List
-This is a machine translation reading list maintained by the Tsinghua Natural Language Processing Group. 
-
-The past three decades have witnessed the rapid development of machine translation, especially for data-driven approaches such as statistical machine translation (SMT) and neural machine translation (NMT). Due to the dominance of NMT at the present time, priority is given to collecting important, up-to-date NMT papers. The list is still incomplete and the categorization might be inappropriate. Each paper is given its Google Scholar citation count, which will be updated monthly.
-
-We will keep adding papers and improving the list. Any suggestions are welcome!
+Copy from Tsinghua Natural Language Processing Group. 
 
 * [10 Must Reads](#10_must_reads)
 * [Statistical Machine Translation](#statistical_machine_translation)
